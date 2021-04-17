@@ -1,0 +1,12 @@
+C:\Users\Emelie\Desktop\Niklas Jobb\Omegapoint\Omegapoint\bin\Debug\net5.0\Omegapoint.deps.json
+C:\Users\Emelie\Desktop\Niklas Jobb\Omegapoint\Omegapoint\bin\Debug\net5.0\Omegapoint.dll
+C:\Users\Emelie\Desktop\Niklas Jobb\Omegapoint\Omegapoint\bin\Debug\net5.0\ref\Omegapoint.dll
+C:\Users\Emelie\Desktop\Niklas Jobb\Omegapoint\Omegapoint\bin\Debug\net5.0\Omegapoint.pdb
+C:\Users\Emelie\Desktop\Niklas Jobb\Omegapoint\Omegapoint\obj\Debug\net5.0\Omegapoint.csprojAssemblyReference.cache
+C:\Users\Emelie\Desktop\Niklas Jobb\Omegapoint\Omegapoint\obj\Debug\net5.0\Omegapoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emelie\Desktop\Niklas Jobb\Omegapoint\Omegapoint\obj\Debug\net5.0\Omegapoint.AssemblyInfoInputs.cache
+C:\Users\Emelie\Desktop\Niklas Jobb\Omegapoint\Omegapoint\obj\Debug\net5.0\Omegapoint.AssemblyInfo.cs
+C:\Users\Emelie\Desktop\Niklas Jobb\Omegapoint\Omegapoint\obj\Debug\net5.0\Omegapoint.csproj.CoreCompileInputs.cache
+C:\Users\Emelie\Desktop\Niklas Jobb\Omegapoint\Omegapoint\obj\Debug\net5.0\Omegapoint.dll
+C:\Users\Emelie\Desktop\Niklas Jobb\Omegapoint\Omegapoint\obj\Debug\net5.0\ref\Omegapoint.dll
+C:\Users\Emelie\Desktop\Niklas Jobb\Omegapoint\Omegapoint\obj\Debug\net5.0\Omegapoint.pdb
